@@ -18,7 +18,7 @@ Je rejoins le **Mastère Data & Intelligence Artificielle d'HETIC** (Paris) et j
 
 ---
 
-#### 🛠️ Stack
+####  Stack
 
 | Domaine | Outils |
 |---|---|
