@@ -1,4 +1,4 @@
-### Bonjour, je suis Joseph-Bernardin (Jody) Afanou 
+### Bonjour, je suis Joseph-Bernardin Afanou 
 
 Développeur **full-stack / backend** en route vers la **Data & l'IA**.
 Je rejoins le **Mastère Data & Intelligence Artificielle d'HETIC** (Paris) et je cherche une **alternance de 12 à 24 mois à partir d'octobre 2026**.
