@@ -1,4 +1,4 @@
-### Bonjour, je suis Joseph-Bernardin (Jody) Afanou 👋
+### Bonjour, je suis Joseph-Bernardin (Jody) Afanou 
 
 Développeur **full-stack / backend** en route vers la **Data & l'IA**.
 Je rejoins le **Mastère Data & Intelligence Artificielle d'HETIC** (Paris) et je cherche une **alternance de 12 à 24 mois à partir d'octobre 2026**.
@@ -32,7 +32,7 @@ Je rejoins le **Mastère Data & Intelligence Artificielle d'HETIC** (Paris) et j
 
 ---
 
-#### 💼 Expériences
+#### Expériences
 
 **Stagiaire développeur web & mobile — ZLO Technologies, Lomé** *(mai – août 2024)*
 Plateforme e-commerce (Laravel), application mobile (Flutter), base MySQL et outil de reporting.
@@ -42,11 +42,11 @@ Application de numérisation de chants : API REST Spring Boot, front Angular, fi
 
 ---
 
-#### 🎓 Formation
+####  Formation
 
 - **Mastère Data & IA** — HETIC, Paris *(à partir d'oct. 2026)*
 - **Master 1 Informatique, Logiciels sûrs** — Université Paris-Est Créteil *(2025 – 2026)*
 - **Licence Génie Logiciel — Systèmes d'Information** — IAI-Togo *(2021 – 2024)*
 - **Cisco Networking Academy — CCNAv7** — IAI-Togo *(2022)*
 
-🗣️ Français (natif) · Anglais (technique) — 🏀 Basket, voyage, lecture, jeux vidéo
+ Français (natif) · Anglais (technique) —  Basket, voyage, lecture, jeux vidéo
